@@ -10,5 +10,7 @@ Os seguintes cenários foram implementados:<br>
 - Instale o python acessando o site do python<br>
 - Instale o selenium através do comando <strong> pip install selenium </strong><br>
 - Instale o pytest através do comando <strong> pip install -U pytest</strong><br>
+- Execute o comando <strong> python -m venv venv </strong> para criação do ambiente virtual<br>
+- Execute o comando <strong> venv\Scripts\Active.ps1 </strong> para ativar o ambiente virtual<br>
 - Execute o comando <strong>pytest -v </strong> para executar os testes<br>
 </p>
