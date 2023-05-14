@@ -6,7 +6,7 @@ Os seguintes cenários foram implementados:<br>
 - Login com sucesso <br>
 - Login digitando senha inválida<br>
 - Login digitando usuário inválido<br></p>
-<p> <strong> - Para execuar o projeto, siga os passos: </strong>
+<p> <strong> - Para execuar o projeto, siga os passos: <br></strong>
 - Instale o python acessando o site do python<br>
 - Instale o selenium através do comando <strong> pip install selenium </strong><br>
 - Instale o pytest através do comando <strong> pip install -U pytest</strong><br>
