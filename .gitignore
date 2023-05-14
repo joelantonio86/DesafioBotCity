@@ -1,0 +1,10 @@
+.vscode
+.vs
+*.html
+*.xml
+*.pyc
+*.swp
+*.png
+*.jpg
+*.log
+.pytest_cache
